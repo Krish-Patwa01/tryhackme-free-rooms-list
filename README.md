@@ -1,7 +1,32 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
+# 🛡️ TryHackMe Cybersecurity Roadmap
 
-Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
-All the rooms herein, are absolutely free. ATTACK!!
+### A hands-on room checklist for building practical cybersecurity skills
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-363636?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-2ea44f?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-363636?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-c0392b?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-363636?style=for-the-badge)
+![Markdown Checklist](https://img.shields.io/badge/Markdown%20Checklist-4a69bd?style=for-the-badge)
+
+**Learn by doing · Track your progress · Build your skills**
+
+---
+
+## 👋 About This Repository
+
+This repository organizes a large collection of TryHackMe room links into cybersecurity topics — from beginner fundamentals to web security, digital forensics, reverse engineering, privilege escalation, and Capture the Flag (CTF) practice.
+
+Use it as a personal learning tracker. Choose a topic, open a room, complete the exercises in the intended training environment, and check the box when you finish.
+
+> **Please note:** This is a community learning checklist, not an official TryHackMe resource. Room names, links, access requirements, and availability may change over time. Some entries may be duplicated.
+
+## ✨ What You'll Find
+
+- 🗂️ **Topic-based navigation** to help you find rooms by skill area.
+- ✅ **Checkbox format** so you can track completed rooms directly in the README.
+- 🆓 **390+ free rooms**, filtered so you're not wasting time on premium-locked content.
+- 🏆 **CTF practice** split by difficulty — easy, medium, and hard.
 
 ## Maintainer
 
