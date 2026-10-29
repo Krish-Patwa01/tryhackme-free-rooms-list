@@ -9,7 +9,7 @@ All the rooms herein, are absolutely free. ATTACK!!
 
 ## NEWS
 
-Hey cyber-hard guys, The advent of cyber 2025 is on. You can visit [TryHackMe](https://tryhackme.com).
+Hey cyber-hard guys, check out TryHackMe's [The Most In-Demand Cyber Security Skills for 2027](https://tryhackme.com/resources/blog/cyber-security-skills-for-2027) to see what's worth learning next.
 
 ## Table of Contents
 
