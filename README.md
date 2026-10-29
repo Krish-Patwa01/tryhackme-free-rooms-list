@@ -1,15 +1,17 @@
-# 🛡️ TryHackMe Cybersecurity Roadmap
+<h1 align="center">🛡️ TryHackMe Cybersecurity Roadmap</h1>
 
-### A hands-on room checklist for building practical cybersecurity skills
+<h3 align="center">A hands-on room checklist for building practical cybersecurity skills</h3>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-363636?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-2ea44f?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-363636?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-c0392b?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-363636?style=for-the-badge)
-![Markdown Checklist](https://img.shields.io/badge/Markdown%20Checklist-4a69bd?style=for-the-badge)
+<p align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-363636?style=for-the-badge" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/Learning-2ea44f?style=for-the-badge" alt="Learning">
+<img src="https://img.shields.io/badge/Platform-363636?style=for-the-badge" alt="Platform">
+<img src="https://img.shields.io/badge/TryHackMe-c0392b?style=for-the-badge" alt="TryHackMe">
+<img src="https://img.shields.io/badge/Progress-363636?style=for-the-badge" alt="Progress">
+<img src="https://img.shields.io/badge/Markdown%20Checklist-4a69bd?style=for-the-badge" alt="Markdown Checklist">
+</p>
 
-**Learn by doing · Track your progress · Build your skills**
+<p align="center"><strong>Learn by doing · Track your progress · Build your skills</strong></p>
 
 ---
 
